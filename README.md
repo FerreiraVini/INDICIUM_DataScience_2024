@@ -8,10 +8,15 @@ Dentro da pasta 'indicium data science project' encontram-se os arquivos para a 
 Arquivos na pasta 'Indicium data science project':
 
 Challenge Answers.docx - Respostas para as perguntas do desafio. Este arquivo foi enviado também como PDF para o email selecao.lighthouse@indicium.tech
+
 LH_CD_Vinicius_Guimaraes_Ferreira.ipynb - Jupyter Notebook com o código e a análise dos dados apresentados.
+
 modelo.pkl - modelo LightGBM gerado ao término da análise de dados
+
 requirements.txt - aquivo em txt com os requisitos para o notebook
+
 teste_indicium_precificacao.csv - Arquivo .csv com os dados a serem analisados
+
 Read_preprocess_model_fit_LH_CD_Vinicius_Guimaraes_Ferreira.ipynb - Jupiter notebook apenas com as funções necessárias para leitura, processamento e fitting do modelo. Arquivo pronto para leitura de bases de dados maiores.
 
 Observações:
