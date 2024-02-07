@@ -3,10 +3,23 @@ Data science project test for INDICIUM
 
 PT/BR
 Este projeto foi desenvolvido como parte do processo seletivo da INDICIUM, desafio de Ciência de dados.
-Dentro da pasta 'indicium data science project' encontram-se os arquivos para a execução do jupyter notebook com a análise de dados, incluindo o arquivo .csv, o arquivo de requisitos para a execução do projeto, bem como o arquivo com as respostas do teste acima.
+Dentro da pasta 'indicium data science project' encontram-se os arquivos para a execução do jupyter notebook com a análise de dados, incluindo o arquivo .csv, o arquivo de requisitos para a execução do projeto, bem como o arquivo com as respostas das perguntas do desafio (perguntas copiadas abaixo).
 
+Arquivos na pasta 'Indicium data science project':
+
+Challenge Answers.docx - Respostas para as perguntas do desafio. Este arquivo foi enviado também como PDF para o email selecao.lighthouse@indicium.tech
+LH_CD_Vinicius_Guimaraes_Ferreira.ipynb - Jupyter Notebook com o código e a análise dos dados apresentados.
+modelo.pkl - modelo LightGBM gerado ao término da análise de dados
+requirements.txt - aquivo em txt com os requisitos para o notebook
+teste_indicium_precificacao.csv - Arquivo .csv com os dados a serem analisados
+Read_preprocess_model_fit_LH_CD_Vinicius_Guimaraes_Ferreira.ipynb - Jupiter notebook apenas com as funções necessárias para leitura, processamento e fitting do modelo. Arquivo pronto para leitura de bases de dados maiores.
+
+Observações:
 Todo o texto do jupyter notebook encontra-se em inglês.
+Em caso de download e execução do notebook, atentar-se ao path do arquivo .csv, e aos requisitos.
 
+
+________________________________________
 Os objetivos requeridos para este projeto foram:
 
 Desafio Cientista de Dados
@@ -61,15 +74,6 @@ d.	Códigos de modelagem utilizados no passo 3 (pode ser entregue no mesmo Jupyt
 e.	Arquivo .pkl conforme passo 5 acima.
 Todos os códigos produzidos devem seguir as boas práticas de codificação.
 
-Prazo
-
-Você tem até 7 dias corridos para a entrega, contados a partir do recebimento deste desafio.
-
-Envie o seu relatório dentro da sua data limite para o email: selecao.lighthouse@indicium.tech
-
-O arquivo de entrega deve ser nomeado como: LH_CD_SEUNOME
-
-Bom trabalho!
 
 Dicionário dos dados
 
